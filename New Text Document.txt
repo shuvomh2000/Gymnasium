@@ -1,0 +1,134 @@
+ color: #f1f1f1;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Oswald', sans-serif;
+
+
+display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+
+
+transition: all linear .3s;
+
+
+font-family: 'Oswald', sans-serif;
+
+font-family: 'opensans', sans-serif;
+
+
+
+
+
+
+
+
+
+<div class="col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+                       
+                         <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                       </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                       </div>
+
+                        <div class="col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+                  
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+                        <div class="col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100 fot_img" alt="">
+                        </div>
+
+
+
+
+https://drive.google.com/file/d/1dJ_CZuEYCWTeMZIwJ7NScmgp5Gu7w1Je/view?usp=sharing
+
+
+
+  <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                              <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                         </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                         </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                        </div>
+                        <div class="fot_img col-lg-3">
+                            <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                       </div>
+                       <div class="fot_img col-lg-3">
+                        <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                     </div>
+                         <div class="fot_img col-lg-3">
+                             <img src="images/foot-1.jpg" class="img-fliud w-100" alt="">
+                     </div>
+
+
+
+<ul class="d-felx">
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                            <li><img src="images/foot-1.jpg" class="img-fliud w-100" alt=""></li>
+                        </ul>

@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?01491ad2297bbf2c7c98f0056db80184") format("truetype"),
+url("./flaticon.woff?01491ad2297bbf2c7c98f0056db80184") format("woff"),
+url("./flaticon.woff2?01491ad2297bbf2c7c98f0056db80184") format("woff2"),
+url("./flaticon.eot?01491ad2297bbf2c7c98f0056db80184#iefix") format("embedded-opentype"),
+url("./flaticon.svg?01491ad2297bbf2c7c98f0056db80184#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-dumbbell:before {
+    content: "\f101";
+}
+.flaticon-weightlifter:before {
+    content: "\f102";
+}
+.flaticon-stationary-bike:before {
+    content: "\f103";
+}
+.flaticon-man-lifting-weight:before {
+    content: "\f104";
+}
+.flaticon-woman:before {
+    content: "\f105";
+}
+.flaticon-treadmill:before {
+    content: "\f106";
+}
+.flaticon-dumbbell-1:before {
+    content: "\f107";
+}
+.flaticon-weightlifting:before {
+    content: "\f108";
+}
+.flaticon-pull-up-bar:before {
+    content: "\f109";
+}
+.flaticon-treadmill-1:before {
+    content: "\f10a";
+}
